@@ -1,0 +1,275 @@
+{
+  "Puja": [
+    {
+      "id": "8",
+      "firstName": "Dudu",
+      "lastName": "Fudu",
+      "job": "Acting"
+    },
+    {
+      "id": "8",
+      "address": {
+        "colny": "Mori Gate",
+        "houseNo": "21",
+        "cityName": "Anupshahr"
+      },
+      "job": "Acting",
+      "firstName": "Bubu",
+      "lastName": "Dudu"
+    },
+    {
+      "id": "228b",
+      "Desgn": "Stude",
+      "FirstName": "Samll",
+      "LastName": "Steps",
+      "Id": "96"
+    },
+    {
+      "id": "a6b1",
+      "Desgn": "Stude",
+      "FirstName": "Hare Krishna",
+      "LastName": "Hare Hare",
+      "Id": "{{Id}}"
+    },
+    {
+      "id": "b071",
+      "Desgn": "Stude",
+      "FirstName": "Hare Krishna",
+      "LastName": "Hare Hare",
+      "Id": "{{Id}}"
+    },
+    {
+      "id": "2e5d",
+      "Desgn": "Stude",
+      "FirstName": "Hare Krishna",
+      "LastName": "Hare Hare",
+      "Id": "{{Id}}"
+    },
+    {
+      "id": "b17a",
+      "Desgn": "Stude",
+      "FirstName": "Hare Krishna",
+      "LastName": "Hare Hare",
+      "Id": "{{Id}}"
+    },
+    {
+      "id": "1c49",
+      "Desgn": "Stude",
+      "FirstName": "Hare Krishna",
+      "LastName": "Hare Hare",
+      "Id": "-1352613130"
+    },
+    {
+      "id": "-671622227"
+    },
+    {
+      "id": "-1448090679"
+    }
+  ],
+  "Harshita": [
+    {
+      "id": "f1b4",
+      "year": "2015",
+      "movie": "Radhe Radhe",
+      "category": "Bolloywood",
+      "movieadd": [
+        {
+          "city": "Delhi",
+          "duration": "3 Hrs",
+          "amount": "4000"
+        },
+        {
+          "city": "Delhi",
+          "duration": "3 Hrs",
+          "amount": "4000"
+        }
+      ]
+    },
+    {
+      "id": "9bf9",
+      "Desgn": "Stude",
+      "FirstName": "Navya",
+      "LastName": "Sweetu",
+      "Id": "1984221090"
+    },
+    {
+      "id": "309667913",
+      "Desgn": "Acting",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    },
+    {
+      "id": "724297229",
+      "Desgn": "Acting",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    },
+    {
+      "id": "-1279769608",
+      "Desgn": "IPS",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    },
+    {
+      "id": "-845507314",
+      "Desgn": "IPS",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    },
+    {
+      "id": "-1704824688",
+      "Desgn": "IPS Officer",
+      "FirstName": "Miss Pooja",
+      "LastName": "Sharma"
+    },
+    {
+      "id": "228190634",
+      "Desgn": "Acting",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    },
+    {
+      "id": "343546746",
+      "Desgn": "Acting",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    },
+    {
+      "id": "-405692995",
+      "Desgn": "Acting",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    },
+    {
+      "id": "1163045429",
+      "Desgn": "Acting",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    },
+    {
+      "id": "69078072",
+      "Desgn": "Acting",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    },
+    {
+      "id": "1112252011",
+      "Desgn": "Acting",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    },
+    {
+      "id": "1506577360"
+    },
+    {
+      "id": "610290654"
+    },
+    {
+      "id": "-1502499398"
+    },
+    {
+      "id": "-1440799957"
+    },
+    {
+      "id": "-1149663448"
+    },
+    {
+      "id": "-1931130125"
+    },
+    {
+      "id": "-1620850501"
+    }
+  ],
+  "Sharma": [
+    {
+      "id": "1468558484"
+    },
+    {
+      "id": "-1816433051"
+    },
+    {
+      "id": "2105800236"
+    },
+    {
+      "id": "1233978814"
+    },
+    {
+      "id": "1609514530"
+    },
+    {
+      "id": "-72394732"
+    },
+    {
+      "Desgn": "Fashion",
+      "FirstName": "Lion",
+      "LastName": "Don",
+      "id": "-1729192191"
+    },
+    {
+      "Desgn": "Thief",
+      "FirstName": "Sharma",
+      "LastName": "Virkart",
+      "id": "2099216286"
+    },
+    {
+      "Desgn": "Thief",
+      "FirstName": "Sharma",
+      "LastName": "Virkart",
+      "id": "-2057338921"
+    },
+    {
+      "Desgn": "Thief",
+      "FirstName": "Sharma",
+      "LastName": "Virkart",
+      "id": "-1548837353"
+    },
+    {
+      "id": "440264017",
+      "Desgn": "Acting",
+      "FirstName": "Miss Navya",
+      "LastName": "Miss Puju"
+    }
+  ],
+  "Anup": [
+    {
+      "id": "90b3",
+      "Desgn": "Stude",
+      "FirstName": "Hare Krishna",
+      "LastName": "Hare Hare",
+      "Id": "{{Id}}"
+    },
+    {
+      "id": "e5b9",
+      "Desgn": "Teacher",
+      "FirstName": "Miss Puju",
+      "LastName": "Miss Sweetu",
+      "Id": "-1924533086"
+    },
+    {
+      "id": "d7a8",
+      "Desgn": "Teacher",
+      "FirstName": "Miss Puju",
+      "LastName": "Miss Sweetu",
+      "Id": "1924488856"
+    },
+    {
+      "id": "e2dc",
+      "Desgn": "Teacher",
+      "FirstName": "Miss Puju",
+      "LastName": "Miss Sweetu",
+      "Id": "2032382939"
+    },
+    {
+      "id": "{{id}}",
+      "Desgn": "Teacher",
+      "FirstName": "Miss Puju",
+      "LastName": "Miss Sweetu"
+    },
+    {
+      "id": "1798273982",
+      "Desgn": "Teacher",
+      "FirstName": "Miss Puju",
+      "LastName": "Miss Sweetu"
+    }
+  ]
+}
